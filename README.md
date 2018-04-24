@@ -1,2 +1,3 @@
-# super_mega_fast_sqrt_algo
-based on Karatsuba Square Root and fast Fourier transform
+# Link:
+
+    https://hal.inria.fr/inria-00072854/file/RR-3805.pdf
